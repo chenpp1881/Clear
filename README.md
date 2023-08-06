@@ -4,7 +4,7 @@ This repo is a paper of python implementation : Contrastive Learning Enhanced Au
 
 # Framework
 
-![The overview of GPANet](figs/model.drawio.pdf)
+![The overview of GPANet](figs/model.drawio.png)
 
 The overview of our proposed method Clear is illustrated in the Figure, which consists of three modules: .
 
