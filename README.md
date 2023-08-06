@@ -15,7 +15,7 @@ The overview of our proposed method Clear is illustrated in the Figure, which co
 - pytorch 1.13.1
 
 # Datasets
-We use the same dataset as [Qian et al., 2021](https://github.com/Messi-Q/Cross-Modality-Bug-Detection). And we conduct experiments to assess reentrancy, timestamp dependence, and integer overflow/underflow vulnerabilities on the dataset.
+We use the same dataset as [Qian et al., 2023](https://github.com/Messi-Q/Cross-Modality-Bug-Detection). And we conduct experiments to assess reentrancy, timestamp dependence, and integer overflow/underflow vulnerabilities on the dataset.
 
 Further instructions on the dataset can be found on [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset), which is constantly being updated to provide more details.
 
