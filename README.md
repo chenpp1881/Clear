@@ -27,6 +27,6 @@ Also all the hyper-parameters can be found in `run.py`.
 Examples:
 
 `
-python run.py --dataset RE --mlmloss 0.1  
+python run.py --dataset RE --epoch_clip 100  --mlmloss 0.1 --epoch_cla 20 --max_length 1024
 `
 
