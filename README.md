@@ -6,7 +6,7 @@ This repo is a paper of python implementation : Contrastive Learning Enhanced Au
 
 ![The overview of GPANet](figs/model.drawio.png)
 
-The overview of our proposed method Clear is illustrated in the Figure, which consists of three modules: .
+The overview of our proposed method Clear is illustrated in the Figure, which consists of three modules: 1) Data Sampling, 2) Contrastive Learning, and 3) Vulnerability Detection.
 
 # Required Packages
 - python 3+
